@@ -21,6 +21,7 @@ TARGET_SCREEN_HEIGHT := 1280
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := osprey
 PRODUCT_NAME := xpe_osprey
+PRODUCT_MODEL := MotoG3
 PRODUCT_BRAND := Motorola
 PRODUCT_MANUFACTURER := Motorola
 PRODUCT_RELEASE_NAME := osprey
